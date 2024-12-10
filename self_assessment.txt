@@ -1,0 +1,29 @@
+a. How did you challenge yourself in this project? 
+
+This was the first time working on a project with React or Next.js. So initially it 
+was already challenging to even be working on it; I began by watching tutorials on the basics
+of React and Next.js in order to supplement my in class readings. I also challenged myself by using TypeScript
+This was my first time writing and working in TypeScript, so it took me some time to be able to properly understand
+all the syntax for my project.
+
+
+b. What did you learn?
+
+In this assignment, I learned work with context structures. Specifically for this
+assignment I learned how to use modify, add, and remove nested context structures. 
+From in-class activities, I learned a bit on how contexts worked, but this assignment
+really challenged me to understand how manage various contexts and apply them properly. 
+Furthermore learned how to destructure and spread states proved really difficult and took a lot of time learning
+how to properly add, remove, and edit from a nested context structure (e.g. a dictionary of arrays).
+In this assignment, I also learned how to work with tailwind and style my pages.
+Lastly, I also learned how to manage and organize a project in the Next.js structure. I tried
+my best to be able to create many small components that I would put together to make a larger organism.
+
+What are areas of improvement for your work?
+
+I'm very happy with how my assignment turned out as I spent a lot of time on the entire project, but
+I think I could definitely improve on better managing my state. I think the stress of completing it,
+make state very messy. I wish I could've had one state to manage all the recipes and recipe steps but ended
+up having to split them into multiple contexts. Furthermore, I wish I had improved the card functionality in
+order to change the description and image, but I think the product is a good demo of what could be further
+improved on.
